@@ -1,0 +1,25 @@
+🎓 Student Management System for ATI Tangalle
+Software system | PHP | MySQL | HTML
+
+Developed a web-based Student Management System for ATI Tangalle to manage student details, courses, and academic records efficiently. The system provides a secure login, an admin dashboard, and a user-friendly interface for managing academic data.
+
+✨ Key Features
+👤 Student Registration
+📚 Course Management
+📝 Academic Records Management
+🔍 Search Functionality
+🔐 Secure Admin Login
+🗄️ MySQL Database Integration
+
+🛠️ Technologies Used
+<p> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
+
+🚀 Project Highlights
+Built using PHP and MySQL.
+Automated student data management with a web solution.
+Implemented student, course, and record management.
+Improved data organization and operational efficiency.
+Designed an intuitive web interface.
+
+📁 Project Files
+🔗 Source Code - [ඔබේ GitHub ලින්ක් එක මෙතන දාන්න]

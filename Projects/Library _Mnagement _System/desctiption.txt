@@ -1,0 +1,25 @@
+📚 Library Management System
+Desktop Application | Java | MySQL
+
+Developed a desktop-based Library Management System to simplify and automate daily library operations. The application enables efficient management of books, members, and borrowing records while providing a user-friendly interface and secure MySQL database integration.
+
+✨ Key Features
+📖 Book Management
+👤 Member Management
+🔄 Issue & Return Books
+🔍 Search Functionality
+🗄️ MySQL Database Integration
+🖥️ User-Friendly Windows Interface
+
+🛠️ Technologies Used
+<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </p>
+
+🚀 Project Highlights
+Built using Java and MySQL.
+Automated library operations with a desktop solution.
+Implemented book, member, and issue management.
+Improved data organization and operational efficiency.
+Designed an intuitive desktop interface.
+
+📁 GitHub Repository
+🔗 View Source Code - [ඔබේ GitHub ලින්ක් එක මෙතන දාන්න]

@@ -1,0 +1,25 @@
+🏥 Hospital Management System
+Desktop Database Application | MS Access
+
+Developed a desktop-based Hospital Management System to manage patient records, doctor appointments, and hospital data efficiently. The system provides a user-friendly interface with structured database tables and forms for easy data handling.
+
+✨ Key Features
+👤 Patient Management
+🩺 Doctor Management
+📅 Appointment Scheduling
+📋 Medical Records Management
+🗄️ MS Access Database Integration
+🖥️ User-Friendly Windows Interface
+
+🛠️ Technologies Used
+<p> <img src="https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white"/> <img src="https://img.shields.io/badge/Database_Design-003B57?style=for-the-badge&logo=databricks&logoColor=white"/> </p>
+
+🚀 Project Highlights
+Built using MS Access Forms and Queries.
+Automated hospital data management with a desktop solution.
+Implemented patient, doctor, and appointment management.
+Improved data organization and operational efficiency.
+Designed an intuitive desktop interface.
+
+📁 Project Files
+🔗 Database File - [ඔබේ MS Access ෆයිල් එකේ නම හෝ ලින්ක් එක මෙතන දාන්න]
