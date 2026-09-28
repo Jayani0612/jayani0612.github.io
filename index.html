@@ -994,18 +994,19 @@
     height: 250px;
   }
 } 
-/* CV Note (පොඩි අකුරු නෝට් එක) */
-.cv-note {
-  font-size: 0.85rem; /* පොඩි අකුරු */
-  color: var(--muted); /* අළු පාට */
-  margin-top: 25px;
-  line-height: 1.6;
-  border-left: 2px solid var(--accent); /* වම් පැත්තෙන් නිල් පාට ඉරක් */
-  padding-left: 15px;
-  background: rgba(255, 255, 255, 0.02);
-  padding: 12px 15px;
-  border-radius: 0 8px 8px 0;
-}
+    /* CV Note (පොඩි අකුරු නෝට් එක මැදට ගන්න) */
+    .cv-note {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin: 30px auto 0 auto;  /* මේකෙන් තමයි කොටුව මැදට ගන්නේ */
+      max-width: 800px;          /* මේකෙන් තමයි පළල සීමා කරන්නේ (ලොකු screen වලදී දිගටම යන්නේ නෑ) */
+      line-height: 1.6;
+      text-align: center;        /* අකුරු මැදට */
+      border-left: 3px solid var(--accent);
+      padding: 15px 20px;
+      background: rgba(255, 255, 255, 0.02);
+      border-radius: 0 12px 12px 0;
+    }
 /* Certificates Section Design */
 .certificates-grid {
   display: grid;
